@@ -1,0 +1,5 @@
+rootProject.name = 'ssogroup'
+include 'sso-server'
+include 'cms-server'
+include 'wms-server'
+
